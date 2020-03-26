@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bin":{
+  "bin": {
     "coffee-shop": "./bin/index.js"
   },
   "dependencies": {
